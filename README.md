@@ -48,7 +48,7 @@
 <a href="https://uttamkalsariya.kesug.com/"><img src="ui-v3/social-website.svg" alt="Portfolio Website" width="32%" /></a>
 <a href="https://www.linkedin.com/in/uttam-kalsariya"><img src="ui-v3/social-linkedin.svg" alt="LinkedIn" width="32%" /></a>
 <a href="https://github.com/uttam-kalsariya"><img src="ui-v3/social-github.svg" alt="GitHub" width="32%" /></a>
-<a href="https://play.google.com/store/apps/developer?id=Uttam+Kalsariya"><img src="ui-v3/social-playstore.svg" alt="Google Play Developer" width="32%" /></a>
+<a href="https://play.google.com/store/apps/dev?id=8039162609041435862"><img src="ui-v3/social-playstore.svg" alt="Google Play Developer" width="32%" /></a>
 <a href="mailto:uttamkalsariya2@gmail.com"><img src="ui-v3/social-gmail.svg" alt="Email" width="32%" /></a>
 <a href="https://www.hackerrank.com/profile/uttamkalsariya2"><img src="ui-v3/social-hackerrank.svg" alt="HackerRank" width="32%" /></a>
 </p>
