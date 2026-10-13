@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="76" viewBox="0 0 330 76" role="img" aria-label="Google Play Store">
+  <title>Google Play Store</title>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="328" height="74" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.2" />
+  <rect x="1" y="1" width="328" height="74" rx="10" fill="#161b22" opacity="0.6" />
+
+  <!-- Google Play Triangle Logo -->
+  <g transform="translate(20, 18)">
+    <path d="M 5 6 L 22 20 L 5 34 Z" fill="#01875f" />
+    <path d="M 5 6 L 27 12 L 22 20 Z" fill="#00c0a3" />
+    <path d="M 5 34 L 27 28 L 22 20 Z" fill="#ff334c" />
+    <path d="M 27 12 L 35 18 C 37 19.5 37 21.5 35 22.5 L 27 28 L 22 20 Z" fill="#ffde00" />
+  </g>
+
+  <!-- Title & Handle -->
+  <text x="70" y="34" class="sans" font-size="15" font-weight="700" fill="#f0f6fc">Google Play Store</text>
+  <text x="70" y="52" class="mono" font-size="11" fill="#3fb950">Uttam Kalsariya Dev</text>
+
+  <!-- Arrow -->
+  <text x="304" y="44" class="sans" font-size="18" fill="#8b949e">↗</text>
+</svg>

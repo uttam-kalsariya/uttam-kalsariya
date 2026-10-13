@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226" role="img" aria-label="SummPDF — Document Summarizer">
+  <title>SummPDF — Document Summarizer</title>
+  <defs>
+    <linearGradient id="cardGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <linearGradient id="projBorder5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff7b72" />
+      <stop offset="100%" stop-color="#d2a8ff" />
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <rect x="2" y="2" width="476" height="222" rx="12" fill="url(#cardGrad5)" stroke="url(#projBorder5)" stroke-width="1.6" />
+
+  <!-- Top bar -->
+  <path d="M 2 12 C 2 6.477 6.477 2 12 2 L 468 2 C 473.523 2 478 6.477 478 12 L 478 32 L 2 32 Z" fill="#21262d" />
+  <circle cx="16" cy="17" r="3.5" fill="#ff5f56" />
+  <circle cx="28" cy="17" r="3.5" fill="#ffbd2e" />
+  <circle cx="40" cy="17" r="3.5" fill="#27c93f" />
+  <text x="56" y="21" class="mono" font-size="10.5" fill="#8b949e">github // summpdf-master</text>
+  
+  <rect x="345" y="7" width="122" height="18" rx="4" fill="#261d30" stroke="#d2a8ff" stroke-width="1" />
+  <text x="406" y="19" text-anchor="middle" class="mono" font-size="9" fill="#d2a8ff" font-weight="700">● TRANSFORMERS</text>
+
+  <!-- Project Title -->
+  <text x="20" y="62" class="sans" font-size="18" font-weight="800" fill="#f0f6fc">SummPDF — Document Summarizer</text>
+  <text x="20" y="80" class="mono" font-size="11" fill="#d2a8ff" font-weight="600">Transformer Document Intelligence System</text>
+
+  <!-- Description -->
+  <text x="20" y="106" class="sans" font-size="12" fill="#c9d1d9">
+    Automated document summarizer processing complex multi-page
+  </text>
+  <text x="20" y="124" class="sans" font-size="12" fill="#c9d1d9">
+    PDFs into structured abstractive key takeaways. Employs open-source
+  </text>
+  <text x="20" y="142" class="sans" font-size="12" fill="#c9d1d9">
+    transformer architectures with an intuitive, reactive Streamlit UI.
+  </text>
+
+  <!-- Tech tags -->
+  <g transform="translate(20, 168)">
+    <rect x="0" y="0" width="60" height="22" rx="4" fill="#21262d" />
+    <text x="30" y="15" text-anchor="middle" class="mono" font-size="10" fill="#d2a8ff">Python</text>
+
+    <rect x="66" y="0" width="90" height="22" rx="4" fill="#21262d" />
+    <text x="111" y="15" text-anchor="middle" class="mono" font-size="10" fill="#d2a8ff">Transformers</text>
+
+    <rect x="162" y="0" width="70" height="22" rx="4" fill="#21262d" />
+    <text x="197" y="15" text-anchor="middle" class="mono" font-size="10" fill="#d2a8ff">Streamlit</text>
+
+    <rect x="238" y="0" width="45" height="22" rx="4" fill="#21262d" />
+    <text x="260" y="15" text-anchor="middle" class="mono" font-size="10" fill="#d2a8ff">NLP</text>
+  </g>
+
+  <!-- Link CTA Badge -->
+  <g transform="translate(365, 168)">
+    <rect x="0" y="0" width="95" height="22" rx="4" fill="#8957e5" />
+    <text x="47" y="15" text-anchor="middle" class="sans" font-size="10.5" fill="#ffffff" font-weight="700">GitHub ↗</text>
+  </g>
+</svg>

@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="About Uttam Kalsariya">
+  <title>About Uttam Kalsariya</title>
+  <defs>
+    <linearGradient id="aboutBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#2ea043" />
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .key { fill: #79c0ff; font-weight: 600; }
+    .val { fill: #c9d1d9; }
+    .str { fill: #a5d6ff; }
+  </style>
+
+  <rect x="2" y="2" width="996" height="336" rx="14" fill="url(#cardBg)" stroke="url(#aboutBorder)" stroke-width="1.8" />
+
+  <!-- Left Column: Identity & Bio (width 450) -->
+  <g transform="translate(30, 28)">
+    <rect x="0" y="0" width="440" height="284" rx="10" fill="url(#panelGrad)" stroke="#30363d" stroke-width="1" />
+    
+    <!-- Header of Panel -->
+    <path d="M 0 10 C 0 4.477 4.477 0 10 0 L 430 0 C 435.523 0 440 4.477 440 10 L 440 36 L 0 36 Z" fill="#21262d" />
+    <circle cx="16" cy="18" r="4.5" fill="#ff5f56" />
+    <circle cx="32" cy="18" r="4.5" fill="#ffbd2e" />
+    <circle cx="48" cy="18" r="4.5" fill="#27c93f" />
+    <text x="66" y="22" class="mono" font-size="11" fill="#8b949e">developer_spec.json</text>
+
+    <!-- Content JSON -->
+    <g transform="translate(18, 56)">
+      <text y="14" class="mono" font-size="12">
+        <tspan class="key">"name":</tspan> <tspan class="str">"Uttam Kalsariya"</tspan>,
+      </text>
+      <text y="36" class="mono" font-size="12">
+        <tspan class="key">"role":</tspan> <tspan class="str">"Full Stack &amp; Python Engineer"</tspan>,
+      </text>
+      <text y="58" class="mono" font-size="12">
+        <tspan class="key">"location":</tspan> <tspan class="str">"Bengaluru, India"</tspan>,
+      </text>
+      <text y="80" class="mono" font-size="12">
+        <tspan class="key">"education":</tspan> <tspan class="str">"MSc IT (JAIN Deemed Univ)"</tspan>,
+      </text>
+      <text y="102" class="mono" font-size="12">
+        <tspan class="key">"undergrad":</tspan> <tspan class="str">"BCA (VNSGU, Surat)"</tspan>,
+      </text>
+      <text y="124" class="mono" font-size="12">
+        <tspan class="key">"experience":</tspan> <tspan class="str">"Seravion Tech (Intern)"</tspan>,
+      </text>
+      <text y="146" class="mono" font-size="12">
+        <tspan class="key">"play_store":</tspan> <tspan class="str">"2 Published Android Apps"</tspan>,
+      </text>
+      <text y="168" class="mono" font-size="12">
+        <tspan class="key">"status":</tspan> <tspan fill="#7ee787">"🟢 Open for Opportunities"</tspan>
+      </text>
+    </g>
+
+    <!-- Mini Bottom Status Pill -->
+    <g transform="translate(18, 246)">
+      <rect x="0" y="0" width="404" height="24" rx="6" fill="#0d1117" stroke="#238636" stroke-width="1" />
+      <text x="12" y="16" class="mono" font-size="10.5" fill="#3fb950" font-weight="700">✓ 100% PRODUCTION READY · CLEAN ARCHITECTURE</text>
+    </g>
+  </g>
+
+  <!-- Right Column: Engineering Philosophy & Impact (width 470) -->
+  <g transform="translate(500, 28)">
+    <rect x="0" y="0" width="470" height="284" rx="10" fill="url(#panelGrad)" stroke="#30363d" stroke-width="1" />
+    
+    <path d="M 0 10 C 0 4.477 4.477 0 10 0 L 460 0 C 465.523 0 470 4.477 470 10 L 470 36 L 0 36 Z" fill="#21262d" />
+    <text x="20" y="23" class="sans" font-size="12" font-weight="700" fill="#f0f6fc">ENGINEERING PHILOSOPHY &amp; HIGHLIGHTS</text>
+    <text x="445" y="23" text-anchor="end" class="mono" font-size="11" fill="#79c0ff">&gt;_ core</text>
+
+    <!-- Bullet Highlights -->
+    <g transform="translate(20, 56)">
+      <!-- Item 1 -->
+      <circle cx="6" cy="10" r="3.5" fill="#58a6ff" />
+      <text x="18" y="14" class="sans" font-size="13" font-weight="700" fill="#e6edf3">Production Track Record</text>
+      <text x="18" y="32" class="sans" font-size="12" fill="#8b949e">
+        Built &amp; deployed live utility apps to Google Play Store serving active users with 200+ specialized calculation tools and AI chat.
+      </text>
+
+      <!-- Item 2 -->
+      <circle cx="6" cy="62" r="3.5" fill="#3fb950" />
+      <text x="18" y="66" class="sans" font-size="13" font-weight="700" fill="#e6edf3">Backend &amp; API Architecture</text>
+      <text x="18" y="84" class="sans" font-size="12" fill="#8b949e">
+        Designing scalable RESTful services with Django, Flask &amp; FastAPI. Structuring relational and NoSQL schemas (PostgreSQL, MySQL, MongoDB).
+      </text>
+
+      <!-- Item 3 -->
+      <circle cx="6" cy="114" r="3.5" fill="#bc8cff" />
+      <text x="18" y="118" class="sans" font-size="13" font-weight="700" fill="#e6edf3">Cross-Platform Engineering</text>
+      <text x="18" y="136" class="sans" font-size="12" fill="#8b949e">
+        Crafting smooth, 60fps Flutter applications with clean state management, Firebase realtime synchronization, and native Android integrations.
+      </text>
+
+      <!-- Item 4 -->
+      <circle cx="6" cy="166" r="3.5" fill="#f0883e" />
+      <text x="18" y="170" class="sans" font-size="13" font-weight="700" fill="#e6edf3">Applied AI &amp; Computer Vision</text>
+      <text x="18" y="188" class="sans" font-size="12" fill="#8b949e">
+        Implementing spaCy NLP matching engines, document summarization with Transformers, and real-time biometric pipelines using OpenCV.
+      </text>
+    </g>
+  </g>
+</svg>

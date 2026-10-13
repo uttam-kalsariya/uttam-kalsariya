@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="76" viewBox="0 0 330 76" role="img" aria-label="HackerRank">
+  <title>HackerRank</title>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="328" height="74" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.2" />
+  <rect x="1" y="1" width="328" height="74" rx="10" fill="#161b22" opacity="0.6" />
+
+  <!-- HackerRank Logo -->
+  <g transform="translate(18, 18)">
+    <rect x="0" y="0" width="40" height="40" rx="8" fill="#00ea64" opacity="0.15" />
+    <path d="M 12 10 L 17 10 L 17 17 L 23 17 L 23 10 L 28 10 L 28 30 L 23 30 L 23 23 L 17 23 L 17 30 L 12 30 Z" fill="#00ea64" />
+  </g>
+
+  <!-- Title & Handle -->
+  <text x="70" y="34" class="sans" font-size="15" font-weight="700" fill="#f0f6fc">HackerRank</text>
+  <text x="70" y="52" class="mono" font-size="11" fill="#7ee787">@uttamkalsariya2</text>
+
+  <!-- Arrow -->
+  <text x="304" y="44" class="sans" font-size="18" fill="#8b949e">↗</text>
+</svg>

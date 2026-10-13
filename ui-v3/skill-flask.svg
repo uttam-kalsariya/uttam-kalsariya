@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="68" viewBox="0 0 242 68" role="img" aria-label="Flask">
+  <title>Flask</title>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="240" height="66" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.2" />
+  <rect x="1" y="1" width="240" height="66" rx="10" fill="#161b22" opacity="0.6" />
+  
+  <!-- Flask Icon -->
+  <g transform="translate(18, 17)">
+    <rect x="0" y="0" width="34" height="34" rx="6" fill="#1c2128" stroke="#8b949e" stroke-width="1" />
+    <path d="M 12 7 L 22 7 L 22 13 L 26 21 C 28 25 25 29 20 29 L 14 29 C 9 29 6 25 8 21 L 12 13 Z" fill="none" stroke="#e6edf3" stroke-width="2" />
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="64" y="30" class="sans" font-size="15" font-weight="700" fill="#f0f6fc">Flask</text>
+  <text x="64" y="48" class="mono" font-size="10.5" fill="#e6edf3" font-weight="600">REST APIs &amp; Microservices</text>
+
+  <!-- Accent indicator -->
+  <circle cx="222" cy="34" r="3" fill="#e6edf3" />
+</svg>

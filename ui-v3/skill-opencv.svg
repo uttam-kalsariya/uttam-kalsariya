@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="68" viewBox="0 0 242 68" role="img" aria-label="OpenCV">
+  <title>OpenCV</title>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="240" height="66" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.2" />
+  <rect x="1" y="1" width="240" height="66" rx="10" fill="#161b22" opacity="0.6" />
+  
+  <!-- OpenCV Tri-color Rings Icon -->
+  <g transform="translate(18, 17)">
+    <circle cx="17" cy="10" r="6" fill="#ea4335" />
+    <circle cx="10" cy="24" r="6" fill="#34a853" />
+    <circle cx="24" cy="24" r="6" fill="#4285f4" />
+    <circle cx="17" cy="17" r="3" fill="#161b22" />
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="64" y="30" class="sans" font-size="15" font-weight="700" fill="#f0f6fc">OpenCV</text>
+  <text x="64" y="48" class="mono" font-size="10.5" fill="#58a6ff" font-weight="600">Computer Vision &amp; AI</text>
+
+  <!-- Accent indicator -->
+  <circle cx="222" cy="34" r="3" fill="#ea4335" />
+</svg>

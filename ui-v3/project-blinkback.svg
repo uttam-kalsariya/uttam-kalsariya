@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226" role="img" aria-label="BlinkBack — Digital Wellness">
+  <title>BlinkBack — Digital Wellness</title>
+  <defs>
+    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <linearGradient id="projBorder2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <rect x="2" y="2" width="476" height="222" rx="12" fill="url(#cardGrad2)" stroke="url(#projBorder2)" stroke-width="1.6" />
+
+  <!-- Top bar -->
+  <path d="M 2 12 C 2 6.477 6.477 2 12 2 L 468 2 C 473.523 2 478 6.477 478 12 L 478 32 L 2 32 Z" fill="#21262d" />
+  <circle cx="16" cy="17" r="3.5" fill="#ff5f56" />
+  <circle cx="28" cy="17" r="3.5" fill="#ffbd2e" />
+  <circle cx="40" cy="17" r="3.5" fill="#27c93f" />
+  <text x="56" y="21" class="mono" font-size="10.5" fill="#8b949e">playstore // blinkback_wellness.apk</text>
+  
+  <rect x="345" y="7" width="122" height="18" rx="4" fill="#1b2e20" stroke="#238636" stroke-width="1" />
+  <text x="406" y="19" text-anchor="middle" class="mono" font-size="9" fill="#3fb950" font-weight="700">● GOOGLE PLAY LIVE</text>
+
+  <!-- Project Title -->
+  <text x="20" y="62" class="sans" font-size="18" font-weight="800" fill="#f0f6fc">BlinkBack — Digital Wellness</text>
+  <text x="20" y="80" class="mono" font-size="11" fill="#a855f7" font-weight="600">Behavioral Health &amp; Screen Management</text>
+
+  <!-- Description -->
+  <text x="20" y="106" class="sans" font-size="12" fill="#c9d1d9">
+    Engineered a digital wellness mobile app designed to curb short-form
+  </text>
+  <text x="20" y="124" class="sans" font-size="12" fill="#c9d1d9">
+    video addiction and excessive screen time. Features active background
+  </text>
+  <text x="20" y="142" class="sans" font-size="12" fill="#c9d1d9">
+    usage monitors, friction timers, and native Android platform APIs.
+  </text>
+
+  <!-- Tech tags -->
+  <g transform="translate(20, 168)">
+    <rect x="0" y="0" width="62" height="22" rx="4" fill="#21262d" />
+    <text x="31" y="15" text-anchor="middle" class="mono" font-size="10" fill="#d2a8ff">Flutter</text>
+
+    <rect x="68" y="0" width="50" height="22" rx="4" fill="#21262d" />
+    <text x="93" y="15" text-anchor="middle" class="mono" font-size="10" fill="#d2a8ff">Dart</text>
+
+    <rect x="124" y="0" width="85" height="22" rx="4" fill="#21262d" />
+    <text x="166" y="15" text-anchor="middle" class="mono" font-size="10" fill="#d2a8ff">Android SDK</text>
+
+    <rect x="215" y="0" width="70" height="22" rx="4" fill="#21262d" />
+    <text x="250" y="15" text-anchor="middle" class="mono" font-size="10" fill="#d2a8ff">Firebase</text>
+  </g>
+
+  <!-- Link CTA Badge -->
+  <g transform="translate(365, 168)">
+    <rect x="0" y="0" width="95" height="22" rx="4" fill="#8957e5" />
+    <text x="47" y="15" text-anchor="middle" class="sans" font-size="10.5" fill="#ffffff" font-weight="700">Open App ↗</text>
+  </g>
+</svg>

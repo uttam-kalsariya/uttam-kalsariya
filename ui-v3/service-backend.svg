@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="165" viewBox="0 0 480 165" role="img" aria-label="Backend &amp; REST APIs">
+  <title>Backend &amp; REST APIs</title>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="478" height="163" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.3" />
+  <rect x="1" y="1" width="478" height="163" rx="12" fill="#161b22" opacity="0.6" />
+
+  <!-- Icon Circle -->
+  <g transform="translate(22, 22)">
+    <rect x="0" y="0" width="44" height="44" rx="10" fill="#238636" opacity="0.15" />
+    <path d="M 12 14 L 32 14 L 32 18 L 12 18 Z M 12 20 L 32 20 L 32 24 L 12 24 Z M 12 26 L 32 26 L 32 30 L 12 30 Z" fill="#3fb950" />
+    <circle cx="16" cy="16" r="1.5" fill="#161b22" />
+    <circle cx="16" cy="22" r="1.5" fill="#161b22" />
+    <circle cx="16" cy="28" r="1.5" fill="#161b22" />
+  </g>
+
+  <!-- Title & Description -->
+  <text x="80" y="38" class="sans" font-size="16" font-weight="800" fill="#f0f6fc">Python Backends &amp; REST APIs</text>
+  <text x="80" y="56" class="mono" font-size="10.5" fill="#3fb950" font-weight="600">Django · Flask · PostgreSQL · MySQL</text>
+
+  <text x="24" y="94" class="sans" font-size="12" fill="#c9d1d9">
+    Designing secure, fault-tolerant REST API contracts, database schema
+  </text>
+  <text x="24" y="112" class="sans" font-size="12" fill="#c9d1d9">
+    migrations, query optimization, and structured authentication layers.
+  </text>
+
+  <!-- Bottom Pills -->
+  <g transform="translate(24, 128)">
+    <text class="mono" font-size="10.5" fill="#7ee787">✓ Secure JWT Auth &nbsp;·&nbsp; ✓ DB Optimization &nbsp;·&nbsp; ✓ RESTful Standards</text>
+  </g>
+</svg>

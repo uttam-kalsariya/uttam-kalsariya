@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="68" viewBox="0 0 242 68" role="img" aria-label="MySQL">
+  <title>MySQL</title>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="240" height="66" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.2" />
+  <rect x="1" y="1" width="240" height="66" rx="10" fill="#161b22" opacity="0.6" />
+  
+  <!-- MySQL Dolphin Icon -->
+  <g transform="translate(18, 17)">
+    <circle cx="17" cy="17" r="17" fill="#00758f" />
+    <path d="M 8 20 C 12 12 18 10 24 13 C 26 14 26 17 24 19 C 21 21 16 19 14 21 C 12 23 10 25 8 26 Z" fill="#f29111" />
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="64" y="30" class="sans" font-size="15" font-weight="700" fill="#f0f6fc">MySQL</text>
+  <text x="64" y="48" class="mono" font-size="10.5" fill="#f29111" font-weight="600">SQL Schema &amp; Storage</text>
+
+  <!-- Accent indicator -->
+  <circle cx="222" cy="34" r="3" fill="#00758f" />
+</svg>

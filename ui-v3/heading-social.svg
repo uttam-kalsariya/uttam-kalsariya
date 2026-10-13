@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="72" viewBox="0 0 1000 72" role="img" aria-label="Find Me Online">
+  <title>Find Me Online</title>
+  <defs>
+    <linearGradient id="glowSocial" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a66c2" stop-opacity="0" />
+      <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#2ea043" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0a66c2" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="998" height="70" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  
+  <!-- Index Pill -->
+  <g transform="translate(24, 20)">
+    <rect x="0" y="0" width="125" height="32" rx="16" fill="#161b22" stroke="#38bdf8" stroke-width="1.2" />
+    <circle cx="16" cy="16" r="4" fill="#38bdf8" />
+    <text x="28" y="21" class="mono" font-size="12" fill="#38bdf8" font-weight="700">04 // CONNECT</text>
+  </g>
+
+  <!-- Title Text -->
+  <text x="168" y="44" class="sans" font-size="22" font-weight="800" fill="#f0f6fc" letter-spacing="1">
+    FIND ME <tspan fill="#38bdf8">ONLINE</tspan>
+  </text>
+  <text x="390" y="44" class="mono" font-size="13" fill="#8b949e">
+    // professional profiles, play store &amp; direct channels
+  </text>
+
+  <!-- Right Pill -->
+  <g transform="translate(810, 20)">
+    <rect x="0" y="0" width="165" height="32" rx="6" fill="#21262d" stroke="#30363d" stroke-width="1" />
+    <text x="14" y="21" class="mono" font-size="11" fill="#7ee787" font-weight="600">&lt;social_channels /&gt;</text>
+  </g>
+
+  <!-- Glowing Bottom Accent Line -->
+  <rect x="20" y="69" width="960" height="2" fill="url(#glowSocial)" />
+</svg>

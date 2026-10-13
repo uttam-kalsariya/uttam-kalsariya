@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Uttam Kalsariya — Profile Showcase">
+  <title>Uttam Kalsariya — Profile Showcase</title>
+  <defs>
+    <linearGradient id="picBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#2ea043" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  </style>
+
+  <rect x="2" y="2" width="996" height="196" rx="14" fill="url(#bgGrad2)" stroke="url(#picBorder)" stroke-width="1.8" />
+
+  <!-- Top bar -->
+  <path d="M 2 14 C 2 7.373 7.373 2 14 2 L 986 2 C 992.627 2 998 7.373 998 14 L 998 34 L 2 34 Z" fill="#21262d" />
+  <circle cx="20" cy="18" r="4" fill="#ff5f56" />
+  <circle cx="34" cy="18" r="4" fill="#ffbd2e" />
+  <circle cx="48" cy="18" r="4" fill="#27c93f" />
+  <text x="70" y="22" class="mono" font-size="11" fill="#8b949e">uttam_kalsariya // developer_identity.profile</text>
+  <text x="960" y="22" text-anchor="end" class="mono" font-size="11" fill="#3fb950" font-weight="700">● LIVE PROFILE</text>
+
+  <!-- Left: Profile Avatar Badge -->
+  <g transform="translate(36, 54)">
+    <rect x="0" y="0" width="115" height="115" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5" />
+    <!-- Monogram / Initials -->
+    <text x="57" y="66" text-anchor="middle" class="sans" font-size="34" font-weight="900" fill="#38bdf8">UK</text>
+    <rect x="15" y="84" width="85" height="18" rx="4" fill="#21262d" />
+    <text x="57" y="97" text-anchor="middle" class="mono" font-size="9" fill="#7ee787" font-weight="700">VERIFIED DEV</text>
+  </g>
+
+  <!-- Middle: Developer Name & Core Metrics -->
+  <g transform="translate(175, 62)">
+    <text x="0" y="20" class="sans" font-size="24" font-weight="900" fill="#f0f6fc">
+      UTTAM KALSARIYA
+    </text>
+    <text x="0" y="40" class="sans" font-size="13.5" font-weight="600" fill="#58a6ff">
+      MSc IT Scholar · Python Backend Specialist · Flutter Mobile Developer
+    </text>
+
+    <!-- 3 Mini Metric Badges -->
+    <g transform="translate(0, 58)">
+      <!-- Badge 1 -->
+      <rect x="0" y="0" width="150" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="12" y="16" class="sans" font-size="10" fill="#8b949e">PLAY STORE</text>
+      <text x="12" y="30" class="mono" font-size="12" fill="#3fb950" font-weight="700">2 Published Apps</text>
+
+      <!-- Badge 2 -->
+      <rect x="160" y="0" width="165" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="12" y="16" class="sans" font-size="10" fill="#8b949e">SUITE UTILITIES</text>
+      <text x="12" y="30" class="mono" font-size="12" fill="#38bdf8" font-weight="700">200+ Active Tools</text>
+
+      <!-- Badge 3 -->
+      <rect x="335" y="0" width="165" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="12" y="16" class="sans" font-size="10" fill="#8b949e">LOCATION &amp; DEGREE</text>
+      <text x="12" y="30" class="mono" font-size="12" fill="#bc8cff" font-weight="700">Bengaluru · MSc IT</text>
+    </g>
+  </g>
+
+  <!-- Right: Philosophy quote box -->
+  <g transform="translate(700, 54)">
+    <rect x="0" y="0" width="265" height="115" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <text x="16" y="24" class="mono" font-size="11" fill="#79c0ff" font-weight="700">// ENGINEERING MOTTO</text>
+    <text x="16" y="46" class="sans" font-size="11.5" fill="#c9d1d9">
+      "Building practical software
+    </text>
+    <text x="16" y="64" class="sans" font-size="11.5" fill="#c9d1d9">
+      for real-world impact.
+    </text>
+    <text x="16" y="82" class="sans" font-size="11.5" fill="#c9d1d9">
+      Clean, maintainable, tested."
+    </text>
+    <text x="16" y="102" class="mono" font-size="10" fill="#8b949e">
+      — Uttam Kalsariya
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="68" viewBox="0 0 242 68" role="img" aria-label="Firebase">
+  <title>Firebase</title>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="240" height="66" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.2" />
+  <rect x="1" y="1" width="240" height="66" rx="10" fill="#161b22" opacity="0.6" />
+  
+  <!-- Firebase Flame Icon -->
+  <g transform="translate(18, 17)">
+    <path d="M 6 26 L 12 7 L 16 14 L 6 26 Z" fill="#ffa000" />
+    <path d="M 28 26 L 22 2 L 15 14 L 28 26 Z" fill="#f57c00" />
+    <path d="M 6 26 L 17 32 L 28 26 L 17 17 Z" fill="#ffca28" />
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="64" y="30" class="sans" font-size="15" font-weight="700" fill="#f0f6fc">Firebase</text>
+  <text x="64" y="48" class="mono" font-size="10.5" fill="#ffca28" font-weight="600">Auth, Firestore &amp; Cloud</text>
+
+  <!-- Accent indicator -->
+  <circle cx="222" cy="34" r="3" fill="#ffca28" />
+</svg>

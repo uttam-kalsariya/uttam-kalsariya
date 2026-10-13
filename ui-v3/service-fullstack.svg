@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="165" viewBox="0 0 480 165" role="img" aria-label="Full-Stack Web Development">
+  <title>Full-Stack Web Development</title>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="478" height="163" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.3" />
+  <rect x="1" y="1" width="478" height="163" rx="12" fill="#161b22" opacity="0.6" />
+
+  <!-- Icon Circle -->
+  <g transform="translate(22, 22)">
+    <rect x="0" y="0" width="44" height="44" rx="10" fill="#1f6feb" opacity="0.15" />
+    <path d="M 10 14 L 34 14 L 34 30 L 10 30 Z" fill="none" stroke="#58a6ff" stroke-width="2" />
+    <line x1="10" y1="18" x2="34" y2="18" stroke="#58a6ff" stroke-width="1.5" />
+    <circle cx="14" cy="16" r="1.5" fill="#58a6ff" />
+    <circle cx="18" cy="16" r="1.5" fill="#58a6ff" />
+    <circle cx="22" cy="16" r="1.5" fill="#58a6ff" />
+  </g>
+
+  <!-- Title & Description -->
+  <text x="80" y="38" class="sans" font-size="16" font-weight="800" fill="#f0f6fc">Full-Stack Web Engineering</text>
+  <text x="80" y="56" class="mono" font-size="10.5" fill="#58a6ff" font-weight="600">React.js · Django · FastAPI · Modern UI</text>
+
+  <text x="24" y="94" class="sans" font-size="12" fill="#c9d1d9">
+    Architecting responsive, high-performance web applications with modular
+  </text>
+  <text x="24" y="112" class="sans" font-size="12" fill="#c9d1d9">
+    frontends, state management, and robust backend integrations.
+  </text>
+
+  <!-- Bottom Pills -->
+  <g transform="translate(24, 128)">
+    <text class="mono" font-size="10.5" fill="#7ee787">✓ Responsive Design &nbsp;·&nbsp; ✓ Clean Architecture &nbsp;·&nbsp; ✓ High Performance</text>
+  </g>
+</svg>

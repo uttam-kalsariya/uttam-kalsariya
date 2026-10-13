@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="68" viewBox="0 0 242 68" role="img" aria-label="React.js">
+  <title>React.js</title>
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="240" height="66" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.2" />
+  <rect x="1" y="1" width="240" height="66" rx="10" fill="#161b22" opacity="0.6" />
+  
+  <!-- React Atom Icon -->
+  <g transform="translate(18, 17)">
+    <circle cx="17" cy="17" r="3" fill="#61dafb" />
+    <ellipse cx="17" cy="17" rx="16" ry="6" fill="none" stroke="#61dafb" stroke-width="1.5" />
+    <ellipse cx="17" cy="17" rx="16" ry="6" fill="none" stroke="#61dafb" stroke-width="1.5" transform="rotate(60 17 17)" />
+    <ellipse cx="17" cy="17" rx="16" ry="6" fill="none" stroke="#61dafb" stroke-width="1.5" transform="rotate(120 17 17)" />
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="64" y="30" class="sans" font-size="15" font-weight="700" fill="#f0f6fc">React.js</text>
+  <text x="64" y="48" class="mono" font-size="10.5" fill="#61dafb" font-weight="600">Frontend UI</text>
+
+  <!-- Accent indicator -->
+  <circle cx="222" cy="34" r="3" fill="#61dafb" />
+</svg>
