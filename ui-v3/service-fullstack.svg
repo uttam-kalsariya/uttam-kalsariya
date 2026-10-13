@@ -30,6 +30,6 @@
 
   <!-- Bottom Pills -->
   <g transform="translate(24, 128)">
-    <text class="mono" font-size="10.5" fill="#7ee787">✓ Responsive Design &nbsp;·&nbsp; ✓ Clean Architecture &nbsp;·&nbsp; ✓ High Performance</text>
+    <text y="12" class="mono" font-size="10.5" fill="#7ee787">✓ Responsive Design  ·  ✓ Clean Architecture  ·  ✓ High Performance</text>
   </g>
 </svg>

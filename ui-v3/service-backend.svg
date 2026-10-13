@@ -29,6 +29,6 @@
 
   <!-- Bottom Pills -->
   <g transform="translate(24, 128)">
-    <text class="mono" font-size="10.5" fill="#7ee787">✓ Secure JWT Auth &nbsp;·&nbsp; ✓ DB Optimization &nbsp;·&nbsp; ✓ RESTful Standards</text>
+    <text y="12" class="mono" font-size="10.5" fill="#7ee787">✓ Secure JWT Auth  ·  ✓ DB Optimization  ·  ✓ RESTful Standards</text>
   </g>
 </svg>

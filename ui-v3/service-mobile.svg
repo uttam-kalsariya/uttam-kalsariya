@@ -27,6 +27,6 @@
 
   <!-- Bottom Pills -->
   <g transform="translate(24, 128)">
-    <text class="mono" font-size="10.5" fill="#7ee787">✓ 200+ Tools Built &nbsp;·&nbsp; ✓ Google Play Verified &nbsp;·&nbsp; ✓ 60 FPS Fluidity</text>
+    <text y="12" class="mono" font-size="10.5" fill="#7ee787">✓ 200+ Tools Built  ·  ✓ Google Play Verified  ·  ✓ 60 FPS Fluidity</text>
   </g>
 </svg>

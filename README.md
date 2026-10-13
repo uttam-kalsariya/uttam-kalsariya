@@ -34,7 +34,7 @@
 <!-- PROJECTS:START -->
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.aicalculator.chatandtools"><img src="ui-v3/project-aicalculator.svg" alt="AI Calculator: Chat &amp; Tools" width="48%" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.BlinkBack.BlinkBack"><img src="ui-v3/project-blinkback.svg" alt="BlinkBack — Digital Wellness Platform" width="48%" /></a>
+<a href="https://play.google.com/store/apps/dev?id=8039162609041435862"><img src="ui-v3/project-blinkback.svg" alt="BlinkBack — Digital Wellness Platform" width="48%" /></a>
 <a href="https://github.com/uttam-kalsariya/JobPortal-AI"><img src="ui-v3/project-jobportal.svg" alt="JobPortal-AI" width="48%" /></a>
 <a href="https://github.com/uttam-kalsariya/Intership_Python/tree/main/Task-4"><img src="ui-v3/project-autoattend.svg" alt="AutoAttend Biometric System" width="48%" /></a>
 <a href="https://github.com/uttam-kalsariya/summpdf-master"><img src="ui-v3/project-summpdf.svg" alt="SummPDF Summarizer" width="48%" /></a>
@@ -56,19 +56,15 @@
 <img src="ui-v3/heading-stats.svg" alt="GitHub Stats" width="100%" />
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=uttam-kalsariya&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=uttam-kalsariya&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true" alt="GitHub stats" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uttam-kalsariya&amp;theme=tokyonight&amp;hide_border=true" alt="Contribution streak" width="49%" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam-kalsariya&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" width="100%" />
+<img src="ui-v3/top-langs.svg" alt="Most Used Languages" width="100%" />
 
 <img src="ui-v3/heading-snake.svg" alt="Contribution Snake" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uttam-kalsariya/uttam-kalsariya/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uttam-kalsariya/uttam-kalsariya/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/uttam-kalsariya/uttam-kalsariya/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="ui-v3/github-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
 
 <img src="ui-v3/heading-what.svg" alt="What I Do" width="100%" />
 

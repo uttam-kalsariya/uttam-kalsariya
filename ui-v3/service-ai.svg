@@ -31,6 +31,6 @@
 
   <!-- Bottom Pills -->
   <g transform="translate(24, 128)">
-    <text class="mono" font-size="10.5" fill="#7ee787">✓ Biometric Vision &nbsp;·&nbsp; ✓ Resume Matching &nbsp;·&nbsp; ✓ Text Intelligence</text>
+    <text y="12" class="mono" font-size="10.5" fill="#7ee787">✓ Biometric Vision  ·  ✓ Resume Matching  ·  ✓ Text Intelligence</text>
   </g>
 </svg>
