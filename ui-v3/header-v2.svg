@@ -48,141 +48,143 @@
     </clipPath>
   </defs>
 
-  <!-- Border Card -->
   <rect x=".5" y=".5" width="999" height="772" rx="12" fill="#0d1117" stroke="url(#bd)" stroke-width="1.5" />
 
-  <!-- ASCII Art Portrait (Generated from uttam.png) -->
-<text class="a" fill="url(#g1)" x="227.0" y="74.0" textLength="62.4" lengthAdjust="spacing">.:-=======-:.</text>
-<text class="a" fill="url(#g1)" x="212.6" y="81.0" textLength="100.8" lengthAdjust="spacing">.-+*#%%%%%######*+-:.</text>
-<text class="a" fill="url(#g1)" x="203.0" y="88.0" textLength="120.0" lengthAdjust="spacing">.=#%%%%%%%%%%%%%%%%%%##+:</text>
-<text class="a" fill="url(#g1)" x="193.4" y="95.0" textLength="139.2" lengthAdjust="spacing">.=#%%%%%%%%%%#%%%%%%%%##%%%+:</text>
-<text class="a" fill="url(#g1)" x="188.6" y="102.0" textLength="148.8" lengthAdjust="spacing">-*%%%%%@@@@@%%%#%##%%%%%##%%%*:</text>
-<text class="a" fill="url(#g1)" x="179.0" y="109.0" textLength="163.2" lengthAdjust="spacing">.+#%%%%%%%%%%%%@@%%%%%%%%%@@%%%%*:</text>
-<text class="a" fill="url(#g1)" x="174.2" y="116.0" textLength="172.8" lengthAdjust="spacing">-#%%%%%@@@@@%%%%@@@@@@@@%%%%@@@%%#+.</text>
-<text class="a" fill="url(#g1)" x="169.4" y="123.0" textLength="177.6" lengthAdjust="spacing">=#%%%%@@@@@%%@@@@@@@@@@@@@@@%@@@@@%#-</text>
-<text class="a" fill="url(#g1)" x="164.6" y="130.0" textLength="187.2" lengthAdjust="spacing">:#@@%%@@@@@%%%@@@@@@@@@@@@@@@@@@@@@@%=.</text>
-<text class="a" fill="url(#g1)" x="159.8" y="137.0" textLength="192.0" lengthAdjust="spacing">.*%%%@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@*:</text>
-<text class="a" fill="url(#g1)" x="159.8" y="144.0" textLength="196.8" lengthAdjust="spacing">=%@%%@@@%@@@@@@@%%%@%#***#%@@@@@@@@@@@%+.</text>
-<text class="a" fill="url(#g1)" x="155.0" y="151.0" textLength="201.6" lengthAdjust="spacing">.*%@%@@@@%@@%#**+==++--::-=+*%@@@@@@@@@%%-</text>
-<text class="a" fill="url(#g1)" x="155.0" y="158.0" textLength="206.4" lengthAdjust="spacing">:%%@%%@@@@%#+=--:::::::.::--=+*#%%@@@%@%%+.</text>
-<text class="a" fill="url(#g1)" x="155.0" y="165.0" textLength="206.4" lengthAdjust="spacing">-%%@%@@@@%*=--:::::...:::::---==+#%@%%%%%*.</text>
-<text class="a" fill="url(#g1)" x="155.0" y="172.0" textLength="206.4" lengthAdjust="spacing">-%%%%@@@#+=---:::::::...:::-----=*%@%%%%%*.</text>
-<text class="a" fill="url(#g1)" x="155.0" y="179.0" textLength="201.6" lengthAdjust="spacing">:%%%@@@#+=---:::::::::...::::----*%%%%%%%=</text>
-<text class="a" fill="url(#g1)" x="155.0" y="186.0" textLength="201.6" lengthAdjust="spacing">.*%%@@%*=---::::::.........::::--+#%%%%%#:</text>
-<text class="a" fill="url(#g1)" x="159.8" y="193.0" textLength="192.0" lengthAdjust="spacing">-%%%%#=------::::....::::-------=*%%%%%*</text>
-<text class="a" fill="url(#g1)" x="159.8" y="200.0" textLength="192.0" lengthAdjust="spacing">.#%%%*==+**##*+=-::::-=+####**+==+%@@@%=</text>
-<text class="a" fill="url(#g1)" x="164.6" y="207.0" textLength="187.2" lengthAdjust="spacing">=%%%++*+++*****+=---=+****+===++=+@@@%:</text>
-<text class="a" fill="url(#g1)" x="164.6" y="214.0" textLength="182.4" lengthAdjust="spacing">:%%#-==-==+****++=-=+***##*+====-=%%@*</text>
-<text class="a" fill="url(#g1)" x="159.8" y="221.0" textLength="192.0" lengthAdjust="spacing">.-*%*--=+**%%#***+-:-+***+%%##*==-=%%#=.</text>
-<text class="a" fill="url(#g1)" x="159.8" y="228.0" textLength="192.0" lengthAdjust="spacing">-==**--+*+=##==+==:.:=====+*=+++=-=##=+=</text>
-<text class="a" fill="url(#g1)" x="159.8" y="235.0" textLength="196.8" lengthAdjust="spacing">-=-++---====+===--:.:--=======-----#+===.</text>
-<text class="a" fill="url(#g1)" x="159.8" y="242.0" textLength="192.0" lengthAdjust="spacing">:--+=:----===----::.:--::-----:::--*+---</text>
-<text class="a" fill="url(#g1)" x="159.8" y="249.0" textLength="192.0" lengthAdjust="spacing">.-=+-::::::::::--::.::--::::::::::-++=-:</text>
-<text class="a" fill="url(#g1)" x="164.6" y="256.0" textLength="182.4" lengthAdjust="spacing">:-=-:::::::::---::..:--::..:::::--=--:</text>
-<text class="a" fill="url(#g1)" x="164.6" y="263.0" textLength="182.4" lengthAdjust="spacing">.---:::::::::--::..:::--::::::::---:-.</text>
-<text class="a" fill="url(#g1)" x="169.4" y="270.0" textLength="172.8" lengthAdjust="spacing">::--:::::::---=-::-=--:::::::-----::</text>
-<text class="a" fill="url(#g1)" x="169.4" y="277.0" textLength="168.0" lengthAdjust="spacing">.:--------::-=++==+*+-::----------:</text>
-<text class="a" fill="url(#g1)" x="174.2" y="284.0" textLength="163.2" lengthAdjust="spacing">:--------:::-=+++++-:::---===----.</text>
-<text class="a" fill="url(#g1)" x="179.0" y="291.0" textLength="148.8" lengthAdjust="spacing">.:--=------===+====--=--====--.</text>
-<text class="a" fill="url(#g1)" x="183.8" y="298.0" textLength="139.2" lengthAdjust="spacing">:--===+*+++========*#+=====--</text>
-<text class="a" fill="url(#g1)" x="183.8" y="305.0" textLength="139.2" lengthAdjust="spacing">.-==-=+***+=----=+**++=====-:</text>
-<text class="a" fill="url(#g1)" x="188.6" y="312.0" textLength="129.6" lengthAdjust="spacing">-=========-----===-=======-</text>
-<text class="a" fill="url(#g1)" x="188.6" y="319.0" textLength="129.6" lengthAdjust="spacing">.======-==+++*++========+=.</text>
-<text class="a" fill="url(#g1)" x="193.4" y="326.0" textLength="120.0" lengthAdjust="spacing">:++==----====------==+++-</text>
-<text class="a" fill="url(#g1)" x="193.4" y="333.0" textLength="120.0" lengthAdjust="spacing">.=+++=--------:----=+**+-</text>
-<text class="a" fill="url(#g1)" x="193.4" y="340.0" textLength="124.8" lengthAdjust="spacing">===**+=----==---==+***+==:</text>
-<text class="a" fill="url(#g1)" x="183.8" y="347.0" textLength="139.2" lengthAdjust="spacing">.++-==+**+++++++++****++==-+-</text>
-<text class="a" fill="url(#g1)" x="179.0" y="354.0" textLength="148.8" lengthAdjust="spacing">.+%:-===++****######*++====:-#-</text>
-<text class="a" fill="url(#g1)" x="174.2" y="361.0" textLength="158.4" lengthAdjust="spacing">.+%#&#160;.=====+++******+++===-=:.##-</text>
-<text class="a" fill="url(#g1)" x="169.4" y="368.0" textLength="168.0" lengthAdjust="spacing">:*%%*&#160;&#160;:========+++++====----&#160;.#%#-</text>
-<text class="a" fill="url(#g1)" x="155.0" y="375.0" textLength="192.0" lengthAdjust="spacing">:=*#%%@#.&#160;&#160;-==============-----.&#160;.#%%%+:</text>
-<text class="a" fill="url(#g1)" x="140.6" y="382.0" textLength="220.8" lengthAdjust="spacing">.=*%%%%%%%%:&#160;&#160;&#160;-=============----.&#160;&#160;.#%%%%#*=:</text>
-<text class="a" fill="url(#g1)" x="126.2" y="389.0" textLength="249.6" lengthAdjust="spacing">.-*%%%@%%%%%%@=&#160;&#160;&#160;&#160;:===========--=-.&#160;&#160;&#160;:%%%%%%%%%*=:</text>
-<text class="a" fill="url(#g1)" x="111.8" y="396.0" textLength="283.2" lengthAdjust="spacing">:=*#%%%%@@%%%%%%%#.&#160;&#160;&#160;&#160;.==========-=-.&#160;&#160;&#160;&#160;+%%%%%%%@@%%%*=:.</text>
-<text class="a" fill="url(#g1)" x="92.6" y="403.0" textLength="316.8" lengthAdjust="spacing">.:=*#%%%%%%@@%%%%%%%%%:&#160;&#160;&#160;&#160;&#160;&#160;-=========:&#160;&#160;&#160;&#160;&#160;.*%%%%%%%%@%%%%%%#+-.</text>
-<text class="a" fill="url(#g1)" x="78.2" y="410.0" textLength="345.6" lengthAdjust="spacing">.-+#%%%%%%%%%%@%%%%%%%%@%+&#160;&#160;&#160;&#160;&#160;&#160;&#160;.-=====-.&#160;&#160;&#160;&#160;&#160;&#160;:%%%%%%%%%%%%%%%%%%%#+-:</text>
-<text class="a" fill="url(#g1)" x="59.0" y="417.0" textLength="384.0" lengthAdjust="spacing">.:=*#%%%%%%%%%%%%%@%%%%%%%@%%#.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-===-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;+%%%%%%%%%%%%%%%%%%%%%%#*+-.</text>
-<text class="a" fill="url(#g1)" x="44.6" y="424.0" textLength="417.6" lengthAdjust="spacing">.-+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-&#160;&#160;&#160;&#160;&#160;&#160;&#160;:-::--.&#160;&#160;&#160;&#160;&#160;&#160;.*%%%%%%%%%%@%%%%%%%%%%%%%%%#*=:.</text>
-<text class="a" fill="url(#g1)" x="39.8" y="431.0" textLength="432.0" lengthAdjust="spacing">:#%%%%%%%%%%%%%%%%%%%@@@@%%%%%%%%%+&#160;&#160;&#160;&#160;&#160;:*%###%%#=.&#160;&#160;&#160;&#160;:%%%%%%%%%@@@%%%%%%%%%%%%%%%%%%%#+:</text>
-<text class="a" fill="url(#g1)" x="39.8" y="438.0" textLength="432.0" lengthAdjust="spacing">+%%%%%%%%%%%%%%%%%%%%%@@@@@%%%%%%%#.&#160;&#160;&#160;=%%%%#%%%%@#.&#160;&#160;&#160;=%%%%%%%@@@@%%%%%%%%%%%%%%%%%%%%%%*</text>
-<text class="a" fill="url(#g1)" x="35.0" y="445.0" textLength="441.6" lengthAdjust="spacing">.#%%@%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%:&#160;&#160;-#@@%%%#%%@@#=:&#160;&#160;+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%:</text>
-<text class="a" fill="url(#g1)" x="35.0" y="452.0" textLength="441.6" lengthAdjust="spacing">+%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=.:-:+%@%%#%@@*::-..#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%=</text>
-<text class="a" fill="url(#g1)" x="35.0" y="459.0" textLength="441.6" lengthAdjust="spacing">%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*:&#160;&#160;&#160;:+%@%#%@*.&#160;&#160;&#160;.-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@%*</text>
-<text class="a" fill="url(#g1)" x="35.0" y="466.0" textLength="441.6" lengthAdjust="spacing">%%%%@@%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%#.&#160;&#160;&#160;.:*@%%%#:&#160;&#160;&#160;&#160;&#160;+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@%</text>
-<text class="a" fill="url(#g1)" x="35.0" y="473.0" textLength="441.6" lengthAdjust="spacing">%%%%%@%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%-&#160;&#160;&#160;&#160;&#160;:%%%@+&#160;&#160;&#160;&#160;&#160;.*%%%%%%%%%%%%%@%%%%%%%%%%@@@@@@@@@@@%</text>
-<text class="a" fill="url(#g1)" x="35.0" y="480.0" textLength="441.6" lengthAdjust="spacing">%%%%%@%%%%%%%%%%%%%%%%@@%%%%%%%%%%%%%+&#160;&#160;&#160;&#160;&#160;-%%%@+&#160;&#160;&#160;&#160;&#160;:%%%%%%%%%%%%%@@%%%%%%%%%@@@@@@@@@@@@%</text>
-<text class="a" fill="url(#g1)" x="35.0" y="487.0" textLength="441.6" lengthAdjust="spacing">%%@@%@@%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%#.&#160;&#160;&#160;.*%%%@%:&#160;&#160;&#160;&#160;=%%%%%%%%%%%%%@%%%%%%%%%@@@@@@@@@@@@@@</text>
-<text class="a" fill="url(#g1)" x="35.0" y="494.0" textLength="441.6" lengthAdjust="spacing">%%@@@@@%%%%%%%%%%%%%%%%@@%%%%%%%%%%%%%:&#160;&#160;&#160;=%%%%@@+&#160;&#160;&#160;&#160;*%%%%%%%%%%%%@@%%%%%%%@@@@@@@@@@@@@@@@</text>
-<text class="a" fill="url(#g1)" x="35.0" y="501.0" textLength="441.6" lengthAdjust="spacing">@@@@@@@@%%%%%%%%%%%%%%%%@@%%%%%%%%%%%%=&#160;&#160;:#%%%%@@%:&#160;&#160;.#%%%%%%%%%%%%@%%%%%%%@@@@@@@@@@@@@@@@@</text>
-<text class="a" fill="url(#g1)" x="35.0" y="508.0" textLength="441.6" lengthAdjust="spacing">@@@@@@@@@%%%%%%%%%%%%%%%@@%%%%%%%%%%%%*&#160;&#160;+%%%%%@@@=&#160;&#160;-%%%%%%%%%%%%@@%%%%%%%@@@@@@@@@@@@@@@@@</text>
-<text class="a" fill="url(#g1)" x="35.0" y="515.0" textLength="441.6" lengthAdjust="spacing">@@@@@@@@@%%%%@@%%%%%%%%%%@@%%%%%%%%%%%#..#%%%%%@@@*&#160;&#160;*%%%%%%%%%%%%@@%%%%%@@@@@@@@@@@@@@@@@@@</text>
-<text class="a" fill="url(#g1)" x="35.0" y="522.0" textLength="441.6" lengthAdjust="spacing">@@@@@@@@@@%%%%@@@%%%%%%%%@@%%%%%%%%%%%%--%%%%%%%@@#..#%%%%%%%%%%%@@%%%%%%@@@@@@@@@@@@@@@@@@@</text>
-<text class="a" fill="url(#g1)" x="35.0" y="529.0" textLength="441.6" lengthAdjust="spacing">@@@@@@@@@@@%%%%@%%@@%%%%%%@@%%%%%%%%%%%+=%%%%%%%@@%.-%%%%%%%%%%%%@@%%%@%@@@@@@@@@@@@@@@@@@@@</text>
+  <!-- Refined High-Definition ASCII Art Portrait -->
+<text class="a" fill="url(#g1)" x="232.8" y="67.6" textLength="39.6" lengthAdjust="spacing">=====++==</text>
+<text class="a" fill="url(#g1)" x="215.2" y="74.2" textLength="79.2" lengthAdjust="spacing">##%%@@@@@@@@@%%###</text>
+<text class="a" fill="url(#g1)" x="202.0" y="80.8" textLength="110.0" lengthAdjust="spacing">#%@@@@@@@@@@@@@%%@@@@@%##</text>
+<text class="a" fill="url(#g1)" x="193.2" y="87.4" textLength="127.6" lengthAdjust="spacing">##@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
+<text class="a" fill="url(#g1)" x="184.4" y="94.0" textLength="145.2" lengthAdjust="spacing">##@@@@@@@@@@@@@%%%%%@@@@@%%%@@@%#</text>
+<text class="a" fill="url(#g1)" x="180.0" y="100.6" textLength="154.0" lengthAdjust="spacing">#@@@@@@@@@@@@@@@@@@@@@%@@@@@@@%@@@#</text>
+<text class="a" fill="url(#g1)" x="171.2" y="107.2" textLength="167.2" lengthAdjust="spacing">#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
+<text class="a" fill="url(#g1)" x="166.8" y="113.8" textLength="171.6" lengthAdjust="spacing">#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text>
+<text class="a" fill="url(#g1)" x="162.4" y="120.4" textLength="180.4" lengthAdjust="spacing">%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
+<text class="a" fill="url(#g1)" x="158.0" y="127.0" textLength="184.8" lengthAdjust="spacing">#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
+<text class="a" fill="url(#g1)" x="153.6" y="133.6" textLength="193.6" lengthAdjust="spacing">#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#</text>
+<text class="a" fill="url(#g1)" x="153.6" y="140.2" textLength="198.0" lengthAdjust="spacing">%@@@@@@@@@@@@@@@@@%%@@%#***#%@@@@@@@@@@@@@@%#</text>
+<text class="a" fill="url(#g1)" x="149.2" y="146.8" textLength="202.4" lengthAdjust="spacing">#@@@@@@@@@@@@%%#**+++++=====+###@@@@@@@@@@@@@#</text>
+<text class="a" fill="url(#g1)" x="149.2" y="153.4" textLength="206.8" lengthAdjust="spacing">#@@@@@@@@@@@##+=====---==-===+++##%%@@@@@@@@@%#</text>
+<text class="a" fill="url(#g1)" x="149.2" y="160.0" textLength="206.8" lengthAdjust="spacing">#@@@@@@@@@%##+++====---======++++++#%@@@@@@@@@#</text>
+<text class="a" fill="url(#g1)" x="149.2" y="166.6" textLength="202.4" lengthAdjust="spacing">#@@@@@@@@##++++++========-===++++++##@@@@@@@@%</text>
+<text class="a" fill="url(#g1)" x="149.2" y="173.2" textLength="202.4" lengthAdjust="spacing">#@@@@@@@##+++++=========---====++++##%@@@@@@@#</text>
+<text class="a" fill="url(#g1)" x="153.6" y="179.8" textLength="198.0" lengthAdjust="spacing">@@@@@@%#++++=======----------====++#%@@@@@@@#</text>
+<text class="a" fill="url(#g1)" x="153.6" y="186.4" textLength="193.6" lengthAdjust="spacing">#@@@@@##+++========----=-===+++++++##@@@@@@%</text>
+<text class="a" fill="url(#g1)" x="158.0" y="193.0" textLength="189.2" lengthAdjust="spacing">@@@@@#+##%%%@%%#*+===++##%@@@@%%##*#%@@@@@#</text>
+<text class="a" fill="url(#g1)" x="158.0" y="199.6" textLength="189.2" lengthAdjust="spacing">#@@@#*%%####%%%%##++++*#%%%##****#%##@@@@@#</text>
+<text class="a" fill="url(#g1)" x="158.0" y="206.2" textLength="184.8" lengthAdjust="spacing">#@@@#**+++**##%####++##%%%%%%#**++**##@@@%</text>
+<text class="a" fill="url(#g1)" x="158.0" y="212.8" textLength="184.8" lengthAdjust="spacing">#%@@#++##%%@@@%%%###=##%%%#@@@%@%#*+##@@@#</text>
+<text class="a" fill="url(#g1)" x="153.6" y="219.4" textLength="193.6" lengthAdjust="spacing">##+%@#+##%##@@#+#**##-#***#=#%%+#%#####@%###</text>
+<text class="a" fill="url(#g1)" x="153.6" y="226.0" textLength="193.6" lengthAdjust="spacing">#*+#%#++*********+++=-#++**#*****++++##%#*##</text>
+<text class="a" fill="url(#g1)" x="153.6" y="232.6" textLength="193.6" lengthAdjust="spacing">#++###++++***#**+++==-=++=++****+++++=#%#++#</text>
+<text class="a" fill="url(#g1)" x="153.6" y="239.2" textLength="193.6" lengthAdjust="spacing">######+====+++==+++==-=+++==========+=#%##+#</text>
+<text class="a" fill="url(#g1)" x="158.0" y="245.8" textLength="184.8" lengthAdjust="spacing">##*#++=========+++==-==++#=---=====+=#*++#</text>
+<text class="a" fill="url(#g1)" x="162.4" y="252.4" textLength="180.4" lengthAdjust="spacing">#*+++========+++==---==++========+++*+=+#</text>
+<text class="a" fill="url(#g1)" x="162.4" y="259.0" textLength="176.0" lengthAdjust="spacing">#+*++=======++==+====+==++=======+++*+=#</text>
+<text class="a" fill="url(#g1)" x="166.8" y="265.6" textLength="167.2" lengthAdjust="spacing">#++++==++++=+##%#++#%%##==+++++++++++#</text>
+<text class="a" fill="url(#g1)" x="166.8" y="272.2" textLength="167.2" lengthAdjust="spacing">#+++++++++===#****#####===++++++*++*##</text>
+<text class="a" fill="url(#g1)" x="171.2" y="278.8" textLength="158.4" lengthAdjust="spacing">#++++++++===####%####+===++****+++=#</text>
+<text class="a" fill="url(#g1)" x="180.0" y="285.4" textLength="140.8" lengthAdjust="spacing">#+***+*******++++****##******+##</text>
+<text class="a" fill="url(#g1)" x="180.0" y="292.0" textLength="136.4" lengthAdjust="spacing">#++*++#%%####***####%@%#*****+#</text>
+<text class="a" fill="url(#g1)" x="180.0" y="298.6" textLength="136.4" lengthAdjust="spacing">#+**+*######+====####*##******#</text>
+<text class="a" fill="url(#g1)" x="184.4" y="305.2" textLength="127.6" lengthAdjust="spacing">#******+++********+++*******#</text>
+<text class="a" fill="url(#g1)" x="184.4" y="311.8" textLength="123.2" lengthAdjust="spacing">##*****++**#%%%#**********##</text>
+<text class="a" fill="url(#g1)" x="188.8" y="318.4" textLength="118.8" lengthAdjust="spacing">###**++++++++++++++++**#%%#</text>
+<text class="a" fill="url(#g1)" x="188.8" y="325.0" textLength="118.8" lengthAdjust="spacing">##%%##+++==++++=++++##%%%##</text>
+<text class="a" fill="url(#g1)" x="184.4" y="331.6" textLength="127.6" lengthAdjust="spacing">##+##%##*++++**++++*#%%%#***#</text>
+<text class="a" fill="url(#g1)" x="180.0" y="338.2" textLength="136.4" lengthAdjust="spacing">#@#***#%%##########%%%%##***+#%</text>
+<text class="a" fill="url(#g1)" x="175.6" y="344.8" textLength="145.2" lengthAdjust="spacing">#@#:#****##%%%%%%%%%%%##*****##@%</text>
+<text class="a" fill="url(#g1)" x="171.2" y="351.4" textLength="154.0" lengthAdjust="spacing">#@@#:#*******###%%%%###****++*###@%</text>
+<text class="a" fill="url(#g1)" x="166.8" y="358.0" textLength="167.2" lengthAdjust="spacing">%@@@####**********###*****+++*####@@%#</text>
+<text class="a" fill="url(#g1)" x="149.2" y="364.6" textLength="189.2" lengthAdjust="spacing">##%@@@@@##:##*+**************++++##:##@@@@#</text>
+<text class="a" fill="url(#g1)" x="136.0" y="371.2" textLength="220.0" lengthAdjust="spacing">##%@@@@@@@@%#::##**************+++*##::##@@@@@@%##</text>
+<text class="a" fill="url(#g1)" x="122.8" y="377.8" textLength="246.4" lengthAdjust="spacing">##%@@@@@@@@@@@@#:::###************++*##:::#%@@@@@@@@@%##</text>
+<text class="a" fill="url(#g1)" x="109.6" y="384.4" textLength="272.8" lengthAdjust="spacing">##%@@@@@@@@@@@@@@@##::::###*********++*##:::##@@@@@@@@@@@@@%##</text>
+<text class="a" fill="url(#g1)" x="92.0" y="391.0" textLength="308.0" lengthAdjust="spacing">###@@@@@@@@@@@@@@@@@@@%#:::::###*********###::::##@@@@@@@@@@@@@@@@@%##</text>
+<text class="a" fill="url(#g1)" x="78.8" y="397.6" textLength="334.4" lengthAdjust="spacing">##%@@@@@@@@@@@@@@@@@@@@@@@##::::::##**+****##::::::#%@@@@@@@@@@@@@@@@@@@@%##</text>
+<text class="a" fill="url(#g1)" x="61.2" y="404.2" textLength="369.6" lengthAdjust="spacing">##%@@@@@@@@@@@@@@@@@@@@@@@@@@@##:::::::###***###::::::##@@@@@@@@@@@@@@@@@@@@@@@@@%##</text>
+<text class="a" fill="url(#g1)" x="43.6" y="410.8" textLength="404.8" lengthAdjust="spacing">##%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#::::::::#=-=+##:::::::##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%##</text>
+<text class="a" fill="url(#g1)" x="34.8" y="417.4" textLength="431.2" lengthAdjust="spacing">#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##:::::##@%##%@%##:::::#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%##</text>
+<text class="a" fill="url(#g1)" x="30.4" y="424.0" textLength="440.0" lengthAdjust="spacing">#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##:::##@@@@@@@@@@%##::##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
+<text class="a" fill="url(#g1)" x="30.4" y="430.6" textLength="440.0" lengthAdjust="spacing">#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#::##@@@@@@@@@@@@%##:##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="a" fill="url(#g1)" x="26.0" y="437.2" textLength="448.8" lengthAdjust="spacing">-%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:###%@@@@@%@@@@%*####%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-</text>
+<text class="a" fill="url(#g1)" x="26.0" y="443.8" textLength="448.8" lengthAdjust="spacing">%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##--:##@@@@%@@@%#:#==#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</text>
+<text class="a" fill="url(#g1)" x="26.0" y="450.4" textLength="448.8" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#::::##@@@%@@%#::::##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text>
+<text class="a" fill="url(#g1)" x="26.0" y="457.0" textLength="448.8" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#::::-#%@@@@@#:::::##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="a" fill="url(#g1)" x="26.0" y="463.6" textLength="448.8" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##::::##@@@@##:::::#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="a" fill="url(#g1)" x="26.0" y="470.2" textLength="448.8" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##::::#%@@@@@#::::##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="a" fill="url(#g1)" x="26.0" y="476.8" textLength="448.8" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#::-##@@@@@@##:::##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="a" fill="url(#g1)" x="26.0" y="483.4" textLength="448.8" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##::#@@@@@@@@#:::#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="a" fill="url(#g1)" x="26.0" y="490.0" textLength="448.8" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##:##@@@@@@@@##:##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="a" fill="url(#g1)" x="26.0" y="496.6" textLength="448.8" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:#@@@@@@@@@@#:##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="a" fill="url(#g1)" x="26.0" y="503.2" textLength="448.8" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@###@@@@@@@@@@#:#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="a" fill="url(#g1)" x="26.0" y="509.8" textLength="448.8" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##%@@@@@@@@@@#:#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="a" fill="url(#g1)" x="26.0" y="516.4" textLength="448.8" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-@@@%%@@@@@@*:#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
 
   <!-- Developer Identity & Telemetry (Right Pane) -->
-  <text class="h fi" fill="#58a6ff" x="530.0" y="115.0" style="animation-delay:0.40s">uttamkalsariya@github ──────────────────────</text>
+  <text class="h fi" fill="#58a6ff" x="525.0" y="115.0" style="animation-delay:0.40s">uttamkalsariya@github ──────────────────────</text>
 
   <g class="fi" style="animation-delay:0.50s">
-    <text class="k" fill="#7ee787" x="530.0" y="145.0">Name:</text>
-    <text class="v" x="650.0" y="145.0">Uttam Kalsariya</text>
+    <text class="k" fill="#7ee787" x="525.0" y="145.0">Name:</text>
+    <text class="v" x="645.0" y="145.0">Uttam Kalsariya</text>
   </g>
 
   <g class="fi" style="animation-delay:0.60s">
-    <text class="k" fill="#79c0ff" x="530.0" y="175.0">Role:</text>
-    <text class="v" x="650.0" y="175.0">Full Stack Software Engineer</text>
+    <text class="k" fill="#79c0ff" x="525.0" y="175.0">Role:</text>
+    <text class="v" x="645.0" y="175.0">Full Stack Software Engineer</text>
   </g>
 
   <g class="fi" style="animation-delay:0.70s">
-    <text class="k" fill="#d2a8ff" x="530.0" y="205.0">Focus:</text>
-    <text class="v" x="650.0" y="205.0">Python Backend · Flutter Mobile</text>
+    <text class="k" fill="#d2a8ff" x="525.0" y="205.0">Focus:</text>
+    <text class="v" x="645.0" y="205.0">Python Backend · Flutter Mobile</text>
   </g>
 
   <g class="fi" style="animation-delay:0.80s">
-    <text class="k" fill="#bc8cff" x="530.0" y="235.0">Degree:</text>
-    <text class="v" x="650.0" y="235.0">MSc IT (2025–2027) · BCA</text>
+    <text class="k" fill="#bc8cff" x="525.0" y="235.0">Degree:</text>
+    <text class="v" x="645.0" y="235.0">MSc IT (2025–2027) · BCA</text>
   </g>
 
   <g class="fi" style="animation-delay:0.90s">
-    <text class="k" fill="#ffa657" x="530.0" y="265.0">University:</text>
-    <text class="v" x="650.0" y="265.0">JAIN (Deemed) University, BLR</text>
+    <text class="k" fill="#ffa657" x="525.0" y="265.0">University:</text>
+    <text class="v" x="645.0" y="265.0">JAIN (Deemed) University, BLR</text>
   </g>
 
   <g class="fi" style="animation-delay:1.00s">
-    <text class="k" fill="#ff7b72" x="530.0" y="295.0">Experience:</text>
-    <text class="v" x="650.0" y="295.0">Seravion Technologies (Intern)</text>
+    <text class="k" fill="#ff7b72" x="525.0" y="295.0">Experience:</text>
+    <text class="v" x="645.0" y="295.0">Seravion Technologies (Intern)</text>
   </g>
 
   <g class="fi" style="animation-delay:1.10s">
-    <text class="k" fill="#3fb950" x="530.0" y="325.0">Location:</text>
-    <text class="v" x="650.0" y="325.0">Bengaluru, India</text>
+    <text class="k" fill="#3fb950" x="525.0" y="325.0">Location:</text>
+    <text class="v" x="645.0" y="325.0">Bengaluru, India</text>
   </g>
 
   <g class="fi" style="animation-delay:1.20s">
-    <text class="k" fill="#7ee787" x="530.0" y="355.0">Status:</text>
-    <text class="v" x="650.0" y="355.0">🟢 Open for Full-Time Roles</text>
+    <text class="k" fill="#7ee787" x="525.0" y="355.0">Status:</text>
+    <text class="v" x="645.0" y="355.0">🟢 Open for Full-Time Roles</text>
   </g>
 
-  <text class="h fi" fill="#bc8cff" x="530.0" y="398.0" style="animation-delay:1.30s">Contact &amp; Channels ─────────────────────────</text>
+  <text class="h fi" fill="#bc8cff" x="525.0" y="398.0" style="animation-delay:1.30s">Contact &amp; Channels ─────────────────────────</text>
 
   <g class="fi" style="animation-delay:1.40s">
-    <text class="k" fill="#ffa657" x="530.0" y="428.0">Website:</text>
-    <text class="v" x="650.0" y="428.0">uttamkalsariya.kesug.com</text>
+    <text class="k" fill="#ffa657" x="525.0" y="428.0">Website:</text>
+    <text class="v" x="645.0" y="428.0">uttamkalsariya.kesug.com</text>
   </g>
 
   <g class="fi" style="animation-delay:1.50s">
-    <text class="k" fill="#7ee787" x="530.0" y="458.0">Email:</text>
-    <text class="v" x="650.0" y="458.0">uttamkalsariya2@gmail.com</text>
+    <text class="k" fill="#7ee787" x="525.0" y="458.0">Email:</text>
+    <text class="v" x="645.0" y="458.0">uttamkalsariya2@gmail.com</text>
   </g>
 
   <g class="fi" style="animation-delay:1.60s">
-    <text class="k" fill="#47c5fb" x="530.0" y="488.0">Play Store:</text>
-    <text class="v" x="650.0" y="488.0">2+ Published Android Apps</text>
+    <text class="k" fill="#47c5fb" x="525.0" y="488.0">Play Store:</text>
+    <text class="v" x="645.0" y="488.0">2+ Published Android Apps</text>
   </g>
 
   <g class="fi" style="animation-delay:1.70s">
-    <text class="k" fill="#38bdf8" x="530.0" y="518.0">LinkedIn:</text>
-    <text class="v" x="650.0" y="518.0">in/uttam-kalsariya</text>
+    <text class="k" fill="#38bdf8" x="525.0" y="518.0">LinkedIn:</text>
+    <text class="v" x="645.0" y="518.0">in/uttam-kalsariya</text>
   </g>
 
   <!-- Divider Line -->
