@@ -62,9 +62,6 @@
 
 <img src="ui-v3/top-langs.svg" alt="Most Used Languages" width="100%" />
 
-
-<img src="ui-v3/github-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
-
 <img src="ui-v3/heading-what.svg" alt="What I Do" width="100%" />
 
 <p align="center">
